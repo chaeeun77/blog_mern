@@ -14,6 +14,15 @@ app.use(morgan('dev'));
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
 
+//라우터
+const profileRoutes = require('./routes/profile')
+const userRoutes = require('./routes/user')
+
+
+app.use('/user', userRoutes)
+app.use('/profile', profileRoutes)
+
+
 const PORT = process.env.PORT || 7000;
 
 app.listen(PORT, () => console.log(`server start at ${PORT}`))

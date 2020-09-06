@@ -3,7 +3,8 @@ const mongoose = require('mongoose');
 //데이터베이스 연결
 const dboptions = {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useCreateIndex: true
 }
 
 mongoose

@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nodeshoppingmall" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +36,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599389389049</updated>
-      <workItem from="1599389389763" duration="3738000" />
+      <workItem from="1599389389763" duration="7020000" />
+      <workItem from="1599907329079" duration="2876000" />
     </task>
     <servers />
   </component>
@@ -44,6 +45,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1599908076961">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1599908076961" />
     <state width="1348" height="227" key="GridCell.Tab.0.bottom" timestamp="1599389623014">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

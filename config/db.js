@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const dboptions = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useCreateIndex: true
+    useCreateIndex: true,
 }
 
 mongoose
